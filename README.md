@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a passionate web developer with expertise in 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,figma,wordpress,javascript,react,nodejs,express,mysql,mongodb,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,express,mongodb,bootstrap,mysql,vscodefigma,wordpress," alt="skills" />
 </p>
 
 ---
@@ -30,12 +30,9 @@ Welcome to my GitHub profile! I am a passionate web developer with expertise in 
 
 ### 📫 How to reach me:
 - **Email**: [arjunahanwate358@gmail.com](mailto:arjunahanwate358@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/arjun-hanwate-94a424230]([https://linkedin.com/in/arjunhanwate](https://www.linkedin.com/in/arjun-hanwate-94a424230/))
+- **LinkedIn**: [https://www.linkedin.com/in/arjun-hanwate-94a424230](https://www.linkedin.com/in/arjun-hanwate-94a424230/)
 
 ---
 
-### 📝 Blog Posts:
-- **[My Journey as a Web Developer](https://yourblog.com/journey-web-developer)**
-- **[Building a Project Management System with MERN Stack](https://yourblog.com/project-management-mern)**
 
 Thanks for visiting my profile!
